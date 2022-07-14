@@ -43,22 +43,6 @@
 5. Navegue até o diretório criado na sua máquina local e observe que o repositório criado no GitHub está na pasta.
 6. Sendo assim, basta rodarmos o comando `cd` e entrar no mesmo, assim já podemos  gerenciar nossos projetos com o `Git` e submete-los no `GitHub`
 
-# Clonando o repositório
-
-1. Depois de criar o repositório do GitHub devemos trazer o mesmo para máquina local, sendo assim clique no botão `code` e copie o https disponibilizado.
-
-![Untitled](Imagens/Untitled%205.png)
-
-1. Cria um novo diretório na sua máquina.
-2. Acesse o `Git Bash` e navegue até o diretório criado anteriormente.
-3. Adicione o comando `git clone https` (https copiado no primeiro passo)
-4. Prontinho, repositório clonado para o repositório local
-   
-    ![Untitled](Imagens/Untitled%206.png)
-    
-5. Navegue até o diretório criado na sua máquina local e observe que o repositório criado no GitHub está na pasta.
-6. Sendo assim, basta rodarmos o comando `cd` e entrar no mesmo, assim já podemos  gerenciar nossos projetos com o `Git` e submete-los no `GitHub`
-
 # Adicionando arquivos ao GitHub
 
 1. Adicione algum arquivo no diretório clonado no tópico anterior.
